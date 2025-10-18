@@ -14,7 +14,7 @@ def multi_matrices(A, B):
     
     return resultado
 
-print("A x B")
+print("A x B WAZAAAAA")
 fa=int(input("Ingrese filas de matriz A: "))
 ca=int(input("Ingrese columnas de matriz A: "))
 fb=int(input("Ingrese filas de matriz B: "))
