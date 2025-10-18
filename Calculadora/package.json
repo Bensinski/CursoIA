@@ -1,0 +1,23 @@
+{
+  "name": "calculadora-javascript",
+  "version": "1.0.0",
+  "description": "Una calculadora moderna creada con JavaScript, HTML y CSS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "server": "node server.js"
+  },
+  "keywords": [
+    "calculadora",
+    "javascript",
+    "html",
+    "css",
+    "web"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
